@@ -34,6 +34,30 @@ Each `SKILL.md` retains its upstream content. Where a top-level version was abse
 | `career-ops` | [.agents/skills/career-ops/SKILL.md](https://github.com/career-ops-hq/career-ops/blob/cd37937/.agents/skills/career-ops/SKILL.md) | `cd37937` | 2 |
 | `impeccable` | [.agents/skills/impeccable/SKILL.md](https://github.com/pbakaus/impeccable/blob/c3bb418/.agents/skills/impeccable/SKILL.md) | `c3bb418` | 65 |
 | `taste-skill` | [skills/taste-skill/SKILL.md](https://github.com/Leonxlnx/taste-skill/blob/9b4bf93/skills/taste-skill/SKILL.md) | `9b4bf93` | 1618 |
+| `android-cli` | user-provided local source | `local snapshot` | 3 |
+| `compose-preview` | user-provided local source | `local snapshot` | 1 |
+| `android-device-hub` | user-provided local source | `local snapshot` | 1 |
+| `mobile-native` | user-provided local source | `local snapshot` | 1 |
+| `write-swift` | user-provided local source | `local snapshot` | 1 |
+| `ui-ux-pro-max` | user-provided local source | `local snapshot` | 73 |
+| `apple-design` | user-provided local source | `local snapshot` | 1 |
+| `emil-design-eng` | user-provided local source | `local snapshot` | 1 |
+| `animate` | user-provided local source | `local snapshot` | 2 |
+| `break-ui` | user-provided local source | `local snapshot` | 2 |
+| `improve-ui` | user-provided local source | `local snapshot` | 3 |
+| `mobile-testing` | user-provided local source | `local snapshot` | 5 |
+| `unit-testing` | user-provided local source | `local snapshot` | 2 |
+| `api-testing` | user-provided local source | `local snapshot` | 4 |
+| `bug-reproduction` | user-provided local source | `local snapshot` | 5 |
+| `test-reliability` | user-provided local source | `local snapshot` | 2 |
+| `performance-testing` | user-provided local source | `local snapshot` | 2 |
+| `aso` | user-provided local source | `local snapshot` | 7 |
+| `paywalls` | user-provided local source | `local snapshot` | 3 |
+| `pricing` | user-provided local source | `local snapshot` | 6 |
+| `youtube-agent-skill` | user-provided local source | `local snapshot` | 1 |
+| `cinematic-reel-editor` | user-provided local source | `local snapshot` | 1 |
+| `yt-script` | user-provided local source | `local snapshot` | 3 |
+| `yt-package` | user-provided local source | `local snapshot` | 2 |
 
 ## Scope notes
 
