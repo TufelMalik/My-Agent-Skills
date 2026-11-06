@@ -2,7 +2,7 @@
 
 Portable agent skill collection imported from the GitHub sources below.
 
-Each `SKILL.md` retains its upstream content. Where a top-level version was absent, a version line was added at the start of the existing YAML frontmatter; an upstream nested version value is reused when present. Existing top-level version lines are preserved. Supporting files were copied verbatim with their original relative paths. Upstream license and notice files are retained with the relevant skill. The source version column below uses the version declared by the upstream skill/package, or a pinned upstream commit when the source has no release version. The added top-level `version: 1.0` line is a local tracking tag, not an upstream release version.
+Each `SKILL.md` retains its upstream content. Where a top-level version was absent, a version line was added at the start of the existing YAML frontmatter; any upstream nested version value remains present. Existing top-level version lines are preserved. Supporting files were copied verbatim with their original relative paths. Upstream license and notice files are retained with the relevant skill. The source version column below uses the version declared by the upstream skill/package, or a pinned upstream commit when the source has no release version. The added top-level `version: 1.0` line is a local tracking tag, not an upstream release version.
 
 ## Imported skills
 
